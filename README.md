@@ -30,7 +30,7 @@ This game requires standard Python libraries (`time`, `random`).
 
 &nbsp;   git clone https://github.com/zbyszekwicher/python-cli-minesweeper-game.git
 
-&nbsp;   cd python-cli-minesweeper
+&nbsp;   cd python-cli-minesweeper-game
 
 &nbsp;   ```
 
@@ -40,7 +40,7 @@ This game requires standard Python libraries (`time`, `random`).
 
 &nbsp;   ```bash
 
-&nbsp;   python minesweeper\_cli.py
+&nbsp;   python cli_minesweeper.py
 
 &nbsp;   ```
 
