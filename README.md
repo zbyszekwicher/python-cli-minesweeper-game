@@ -24,7 +24,7 @@ This game requires standard Python libraries (`time`, `random`).
 
 
 
-1\.  Clone the Repository:
+1.  Clone the Repository:
 
 &nbsp;   ```bash
 
@@ -36,7 +36,7 @@ This game requires standard Python libraries (`time`, `random`).
 
 
 
-2\.  Run the Game:
+2.  Run the Game:
 
 &nbsp;   ```bash
 
